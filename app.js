@@ -23,7 +23,7 @@ app.use(bodyParser.json());
 // Middleware: CORS
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://extraordinary-tartufo-46a45f.netlify.app",
+  "https://task-management0209.netlify.app",
 ];
 
 app.use(
